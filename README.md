@@ -23,7 +23,7 @@ This project predicts whether a loan application will be approved based on appli
 * Model Building (Logistic Regression, Random Forest, SVM, KNN)
 * Model Evaluation
 
-## 📈 Performance
+##  Performance
 
 * Accuracy: Highest for Random Forest Algorithm
 
@@ -40,7 +40,7 @@ This project predicts whether a loan application will be approved based on appli
 2. Run:
    loan_approval_dataset.ipynb
 
-## 📁 Files
+##  Files
 
 * loan_approval_dataset.ipynb
 * loan_approval_dataset.csv
